@@ -254,11 +254,11 @@ Especially welcome:
 
 If PureMac saved you some disk space, a star helps other people find it.
 
-<a href="https://star-history.com/#momenbasel/PureMac&Date">
+<a href="https://github.com/momenbasel/PureMac/stargazers">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=momenbasel/PureMac&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=momenbasel/PureMac&type=Date" />
-    <img alt="PureMac star history chart" src="https://api.star-history.com/svg?repos=momenbasel/PureMac&type=Date" width="720" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/star-history-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/star-history.svg" />
+    <img alt="PureMac star history chart" src="assets/star-history.svg" width="720" />
   </picture>
 </a>
 
